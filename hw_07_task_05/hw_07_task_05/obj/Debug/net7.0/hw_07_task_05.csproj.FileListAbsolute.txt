@@ -1,0 +1,14 @@
+D:\csharp_practices\Homework#7\hw_07_task_05\hw_07_task_05\obj\Debug\net7.0\hw_07_task_05.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp_practices\Homework#7\hw_07_task_05\hw_07_task_05\obj\Debug\net7.0\hw_07_task_05.AssemblyInfoInputs.cache
+D:\csharp_practices\Homework#7\hw_07_task_05\hw_07_task_05\obj\Debug\net7.0\hw_07_task_05.AssemblyInfo.cs
+D:\csharp_practices\Homework#7\hw_07_task_05\hw_07_task_05\obj\Debug\net7.0\hw_07_task_05.csproj.CoreCompileInputs.cache
+D:\csharp_practices\Homework#7\hw_07_task_05\hw_07_task_05\bin\Debug\net7.0\hw_07_task_05.exe
+D:\csharp_practices\Homework#7\hw_07_task_05\hw_07_task_05\bin\Debug\net7.0\hw_07_task_05.deps.json
+D:\csharp_practices\Homework#7\hw_07_task_05\hw_07_task_05\bin\Debug\net7.0\hw_07_task_05.runtimeconfig.json
+D:\csharp_practices\Homework#7\hw_07_task_05\hw_07_task_05\bin\Debug\net7.0\hw_07_task_05.dll
+D:\csharp_practices\Homework#7\hw_07_task_05\hw_07_task_05\bin\Debug\net7.0\hw_07_task_05.pdb
+D:\csharp_practices\Homework#7\hw_07_task_05\hw_07_task_05\obj\Debug\net7.0\hw_07_task_05.dll
+D:\csharp_practices\Homework#7\hw_07_task_05\hw_07_task_05\obj\Debug\net7.0\refint\hw_07_task_05.dll
+D:\csharp_practices\Homework#7\hw_07_task_05\hw_07_task_05\obj\Debug\net7.0\hw_07_task_05.pdb
+D:\csharp_practices\Homework#7\hw_07_task_05\hw_07_task_05\obj\Debug\net7.0\hw_07_task_05.genruntimeconfig.cache
+D:\csharp_practices\Homework#7\hw_07_task_05\hw_07_task_05\obj\Debug\net7.0\ref\hw_07_task_05.dll
